@@ -1,0 +1,44 @@
+<!TYPE toki!>
+
+// --- THUMBNAILS & GALLERY ---
+// Works with video sharing platforms and any image URL. 
+// Supports .gif but .svg files are not compatible.
+
+ThumbnailsItems = <
+
+Vid = https://www.youtube.com/watch?v=dQw4w9WgXcQ[cite: 4]
+
+Vid = https://peertube.tv/w/aSoWCo4iCveFKQ2BvLf3KQ[cite: 4]
+
+Img = https://media.tenor.com/IB9ol7welioAAAAM/dance-vibing.gif[cite: 4]
+
+Vid = https://odysee.com/@krzair:7/waystones-minecraft-mod-showcase:c[cite: 4]
+
+Vid = https://www.tiktok.com/@lemonskyryan/video/7231258963176705323[cite: 4]
+
+Vid = https://loops.video/v/dwCntxXXTq[cite: 4]
+
+>
+
+// --- MOD ICON ---
+// Works with .gif and any image format except .svg. 
+// Automatically displays at 130px. Only the first "Pi =" entry will be used. 
+// If no Pi entry is found, the Mimine cute placeholder will be displayed.
+
+Icon = <
+
+Pi = https://media.tenor.com/yNLsAz-4OoEAAAAj/ruby-bfdia-ruby-bfdia-9.gif[cite: 4]
+
+>
+
+// --- CUSTOMIZATION ---
+// Includes sound effects and custom cursors. Incompatible with .gif and .svg. 
+// Inspired by Gamebanana profile pages. Cursors are automatically resized to 32x32 pixels.
+
+Custom = <
+
+ClickMouse = https://raw.githubusercontent.com/Stormwindsky/ArtLibre/main/ArtLibre/ArtLibre/files/pop.wav[cite: 4]
+
+CustomCursor = https://i1.sndcdn.com/artworks-tVuCIyIuNYF9BPHu-ReD2Uw-t500x500.jpg[cite: 4]
+
+>
