@@ -2,6 +2,10 @@
 
 This is a test for a future website that will use the GitHub API to convert a GitHub repository into a visual interface for downloading mods.
 
+for more info here:
+
+https://stormwindsky.github.io/GitMod/?u=Stormwindsky&d=GitMod-Test
+
 
 Original version made by PickleFace5
 
